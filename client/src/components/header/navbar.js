@@ -153,7 +153,7 @@ function Navbar() {
             <div class="text-overlay">Blazer</div>
         </div>
     </div>
-</div>
+
 
 </div>
 <div className='text13'>Classics Spotlight</div>
