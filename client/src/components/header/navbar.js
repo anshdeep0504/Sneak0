@@ -132,21 +132,27 @@ function Navbar() {
      
     </div>
   </div>
-  <div class="template" >
+ <div class="template">
     <div id="image-container" class="image-container">
-      <div class="image-with-text">
-        <img src="/air1.png" alt="Shoe Model 1"/>
-        <div class="text-overlay">Air Force </div>
-      </div>
-    <div class="image-with-text">
-        <img src="/dunk-low-older-shoes-C7T1cx.png" alt="Shoe Model 2"/>
-        <div class="text-overlay">Dunk</div>
+        <div class="image-with-text">
+            <a href="https://sneak4.vercel.app/">
+                <img src="/air1.png" alt="Shoe Model 1"/>
+            </a>
+            <div class="text-overlay">Air Force </div>
+        </div>
+        <div class="image-with-text">
+            <a href="https://sneak4.vercel.app/">
+                <img src="/dunk-low-older-shoes-C7T1cx.png" alt="Shoe Model 2"/>
+            </a>
+            <div class="text-overlay">Dunk</div>
+        </div>
+        <div class="image-with-text">
+            <a href="https://sneak4.vercel.app/">
+                <img src="/blazer1.png" alt="Shoe Model 3"/>
+            </a>
+            <div class="text-overlay">Blazer</div>
+        </div>
     </div>
-    <div class="image-with-text">
-        <img src="/blazer1.png" alt="Shoe Model 3"/>
-        <div class="text-overlay">Blazer</div>
-    </div>
-    
 </div>
 
 </div>
