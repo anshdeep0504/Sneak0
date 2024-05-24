@@ -64,7 +64,7 @@ function Navbar() {
           <a href="https://www.nike.com/retail/directory/india/delhi" class="findastore">Find a Store</a>
           <a href="https://www.nike.com/in/help/" class="findastore">Help</a>
             <div className='joinus'>Join Us </div>
-            <a href="http://localhost:3001/" class="signin">Sign In</a>
+            <a href="https://sneak3.vercel.app/" class="signin">Sign In</a>
             <div className='sign1'>|</div>
             <div className='sign2'>|</div>
             <div className='sign3'>|</div>
