@@ -15,9 +15,7 @@ function Navbar() {
     return (
         <div className='taskbar'>
           <div className='bg1'>  
-            <div className='logo'>
-                <img src="/0139937c2f641ab61fd020844ccfd459.jpg" alt="logo" />
-            </div>
+           
           </div>
           <nav className="navbar ">
             <div className='name'> 
